@@ -1,7 +1,7 @@
 
 이용규  
-cosgenio@gmail.com  
-010-7335-3293
+email: cosgenio@gmail.com  
+phone: 010-7335-3293
 
 ***
 ***
