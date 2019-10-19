@@ -7,7 +7,7 @@ cosgenio@gmail.com
 ***
 
 ## 개발 경험
- * C/C++, Java, Solidity, React.js, Python
+  * C/C++, Java, Solidity, Web3.js, React.js, Python
  
 ***
 
