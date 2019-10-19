@@ -25,8 +25,8 @@ cosgenio@gmail.com\
     
 ## 개인 프로젝트
   * Ethereum token NMT 개발(2019.03~2019.06)
-  * [블랙홀을 렌더링하는 라이브러리 제작(2019.04 ~ )](https://youtu.be/oADxS49q2ZA)
-  * [특수상대론을 시각화하는 프로그램 제작(2017.10 ~ 2017.11)](https://youtu.be/u7VBTsMErjc)
+  * [블랙홀을 렌더링하는 라이브러리 제작(2019.04 ~ )](https://youtu.be/u7VBTsMErjc)
+  * [특수상대론을 시각화하는 프로그램 제작(2017.10 ~ 2017.11)](https://youtu.be/oADxS49q2ZA)
 
 ***
   
