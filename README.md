@@ -35,9 +35,9 @@ cosgenio@gmail.com
   * 음식 추천 앱 뭐먹지(2019.07 ~)
     * Android 개발
   * 블록체인을 이용한 빅데이터 거래 플랫폼 MOAH(2019.03 ~ 2019.06)
-    * Ethereum Token 개발
-  * 세종대학교 커뮤니티 앱 Sayjong(2018.06 ~ 2018.09) [링크](https://github.com/lackhole/sayjong)
-    * React-Native 개발
+    * Ethereum Token 개발 [링크](https://github.com/alom-sejong/NMT-Solidity)
+  * 세종대학교 커뮤니티 앱 Sayjong(2018.06 ~ 2018.09)
+    * React-Native 개발 [링크](https://github.com/lackhole/sayjong)
     
 ***
 
