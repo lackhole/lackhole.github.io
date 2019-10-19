@@ -25,8 +25,8 @@ cosgenio@gmail.com
     
 ## 개인 프로젝트
   * Ethereum token NMT 개발(2019.03~2019.06)
-  * 블랙홀을 렌더링하는 라이브러리 제작(2019.04 ~ 2019.06) [링크](https://youtu.be/u7VBTsMErjc)
-  * 특수상대론을 시각화하는 프로그램 제작(2017.10 ~ 2017.11) [링크](https://youtu.be/oADxS49q2ZA)
+  * 블랙홀을 렌더링하는 라이브러리 제작(2019.04 ~ 2019.06) [결과영상 YouTube 링크](https://youtu.be/u7VBTsMErjc)
+  * 특수상대론을 시각화하는 프로그램 제작(2017.10 ~ 2017.11) [결과영상 YouTube 링크](https://youtu.be/oADxS49q2ZA)
   * Unity를 이용한 태양계 시뮬레이션 제작(2017.06 ~ 2017. 08)
 
 ***
@@ -35,9 +35,9 @@ cosgenio@gmail.com
   * 음식 추천 앱 뭐먹지(2019.07 ~)
     * Android 개발
   * 블록체인을 이용한 빅데이터 거래 플랫폼 MOAH(2019.03 ~ 2019.06)
-    * Ethereum Token 개발 [링크](https://github.com/alom-sejong/NMT-Solidity)
+    * Ethereum Token 개발 [GitHub 링크](https://github.com/alom-sejong/NMT-Solidity)
   * 세종대학교 커뮤니티 앱 Sayjong(2018.06 ~ 2018.09)
-    * React-Native 개발 [링크](https://github.com/lackhole/sayjong)
+    * React-Native 개발 [GitHub 링크](https://github.com/lackhole/sayjong)
     
 ***
 
