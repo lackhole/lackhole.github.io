@@ -1,7 +1,9 @@
 theme: jekyll-theme-minimal
 
 title: "이용규"
-description : "Description"
+description : "1"
+"2"
+baseurl: ""
 url: "https://www.naver.com"
 
 minimal_mistakes_skin: "dark"
