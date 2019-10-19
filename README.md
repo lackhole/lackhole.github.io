@@ -7,7 +7,7 @@ phone: 010-7335-3293
 ***
 
 ## 개발 경험
-  * C/C++, Java, Solidity, Web3.js, React.js, Python
+  * C/C++, Java, Solidity, Web3.js, Web3j, React.js, Python
  
 ***
 
