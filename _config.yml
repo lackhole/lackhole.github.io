@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 
 title: "이용규"
+name: "Name"
+description : "Description"
+url : "https://www.naver.com"
+baseurl : "https://www.daum.net"
