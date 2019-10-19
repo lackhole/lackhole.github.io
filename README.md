@@ -1,4 +1,11 @@
 
+이용규\
+cosgenio@gmail.com\
+010-7335-3293
+
+***
+***
+
 ## 개발 경험
  * C/C++, Java, Solidity, React.js, Python
  
@@ -18,8 +25,8 @@
     
 ## 개인 프로젝트
   * Ethereum token NMT 개발(2019.03~2019.06)
-  * syntax: [블랙홀을 시각화한 영상 계산(2019.04 ~ 2019.06)](https://youtu.be/oADxS49q2ZA)
-  * syntax: [특수상대론을 시각화한 영상 계산(2017.10 ~ 2017.11)](https://youtu.be/u7VBTsMErjc)
+  * [블랙홀을 시각화한 영상 계산(2019.04 ~ 2019.06)](https://youtu.be/oADxS49q2ZA)
+  * [특수상대론을 시각화한 영상 계산(2017.10 ~ 2017.11)](https://youtu.be/u7VBTsMErjc)
 
 ***
   
