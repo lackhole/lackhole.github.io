@@ -26,7 +26,8 @@ phone: 010-7335-3293
 ## 개인 프로젝트
   * Ethereum token NMT 개발(2019.03~2019.06) 
   * 블랙홀을 렌더링하는 라이브러리 제작(2019.04 ~ 2019.06)
-    * [결과영상 YouTube 링크](https://youtu.be/Fwbx136uIPM)
+    * [결과영상 YouTube 링크1](https://youtu.be/u7VBTsMErjc)
+    * [결과영상 YouTube 링크2](https://youtu.be/Fwbx136uIPM)
   * 특수상대론을 시각화하는 프로그램 제작(2017.10 ~ 2017.11)
     * [결과영상 YouTube 링크](https://youtu.be/oADxS49q2ZA)
   * Unity를 이용한 태양계 시뮬레이션 제작(2017.06 ~ 2017. 08)
