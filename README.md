@@ -25,7 +25,9 @@ phone: 010-7335-3293
     
 ## 개인 프로젝트
   * Ethereum token NMT 개발(2019.03~2019.06) 
+    * Solidity를 이용한 자체 Ethereum Token 을 제작하였으며, Ethereum Testnet에 배포, Web3.js 와 Web3j를 이용한 통신 까지 완료했습니다.
   * 블랙홀을 렌더링하는 라이브러리 제작(2019.04 ~ 2019.06)
+    * C++을 이용하여 자체 Ray Tracing을 구현하였으며, 이를 통해 블랙홀의 실제 모습을 렌더링 하였습니다.
     * [결과영상 YouTube 링크1](https://youtu.be/u7VBTsMErjc)
     * [결과영상 YouTube 링크2](https://youtu.be/Fwbx136uIPM)
   * 특수상대론을 시각화하는 프로그램 제작(2017.10 ~ 2017.11)
@@ -36,9 +38,11 @@ phone: 010-7335-3293
   
 ## 팀 프로젝트
   * 음식 추천 앱 뭐먹지(2019.07 ~)
+    * Daum&Kakao 지도 API 및 Google Place API 를 이용해서 사용자 위치 기반 주변 맛집을 카테고리 형식으로 무작위 추천하는 앱을 만드는 중입니다.
     * Android 개발
   * 블록체인을 이용한 빅데이터 거래 플랫폼 MOAH(2019.03 ~ 2019.06)
-    * Ethereum Token 개발 [GitHub 링크](https://github.com/lackhole/NMT-Project)
+    * Ethereum Smart Contract를 이용한 빅 데이터 거래 플랫폼을 제작하였습니다. 개인 판매자는 데이터를 판매하면 암호화폐를 보상으로 받고, 구매자는 다수의 판매자에게 보상으로 암호화폐를 거는 방식으로, 데이터 전송은 IPFS를 이용하여 완벽한 탈중앙화 플랫폼을 제작하였습니다.
+    * Solidity, Web3.js 개발 [GitHub 링크](https://github.com/lackhole/NMT-Project)
   * 세종대학교 커뮤니티 앱 Sayjong(2018.06 ~ 2018.09)
     * React-Native 개발 [GitHub 링크](https://github.com/lackhole/sayjong)
     
