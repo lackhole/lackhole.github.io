@@ -45,6 +45,7 @@ phone: 010-7335-3293
       
   * Unity를 이용한 태양계 시뮬레이션 제작(2017.06 ~ 2017. 08)
     * Unity3D와 C#를 이용하여 간단한 태양계 시뮬레이터를 제작
+      * [GitHub 링크](https://github.com/lackhole/Solar-System)
 
 ***
   
