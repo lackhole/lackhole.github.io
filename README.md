@@ -22,31 +22,6 @@ page: https://lackhole.github.io
   * 세종대학교 통계물리 연구실(2018.12 ~ 2019.02)
     * Sandpile 모델링 및 연구 데이터 분석
     
-***
-    
-## 개인 프로젝트
-  * Ethereum token NMT 개발(2019.03~2019.06) 
-    * Solidity를 이용한 ERC20 Token 을 제작
-    * Truffle을 이용하여 블록체인 네트워크에 배포
-    * Web3.js 와 Web3j를 이용한 통신 구현
-    
-  * 블랙홀을 렌더링하는 라이브러리 제작(2019.04 ~ 2019.06)
-    * C++을 이용하여 자체 Ray Tracing을 구현
-    * 이미지와 영상 처리에 OpenCV를 사용
-      * [결과영상 YouTube 링크1](https://youtu.be/u7VBTsMErjc)
-      * [결과영상 YouTube 링크2](https://youtu.be/Fwbx136uIPM)
-      
-  * GUI 함수 플로터 제작(2018.10 ~ 2019.01)
-    * OpenCV를 이용하여 GUI 함수 플로터를 제작
-      * [GitHub 링크](https://github.com/lackhole/Plotting-for-OpenCV)
-    
-  * 특수상대론을 시각화하는 프로그램 제작(2017.10 ~ 2017.11)
-    * C를 이용하여 빠르게 움직이는 물체의 모습을 구현
-      * [결과영상 YouTube 링크](https://youtu.be/oADxS49q2ZA)
-      
-  * Unity를 이용한 태양계 시뮬레이션 제작(2017.06 ~ 2017. 08)
-    * Unity3D와 C#를 이용하여 간단한 태양계 시뮬레이터를 제작
-      * [GitHub 링크](https://github.com/lackhole/Solar-System)
 
 ***
   
@@ -68,24 +43,50 @@ page: https://lackhole.github.io
   * 세종대학교 커뮤니티 앱 Sayjong(2018.06 ~ 2018.09)
     * React-Native를 이용해 iOS와 Android를 동시에 개발
       * React-Native 개발 [GitHub 링크](https://github.com/lackhole/sayjong)
+      
+***
     
+## 개인 프로젝트
+  * Ethereum token NMT 개발(2019.03~2019.06) 
+    * Solidity를 이용한 ERC20 Token 을 제작
+    * Truffle을 이용하여 블록체인 네트워크에 배포
+    * Web3.js 와 Web3j를 이용한 통신 구현
+    
+  * 블랙홀의 영향 하에 3D 물체들을 렌더링하는 라이브러리 제작(2019.04 ~ 2019.06)
+    * C++을 이용하여 자체 Ray Tracing을 구현
+    * 이미지와 영상 처리에 OpenCV를 사용
+      * [결과영상 YouTube 링크1](https://youtu.be/u7VBTsMErjc)
+      * [결과영상 YouTube 링크2](https://youtu.be/Fwbx136uIPM)
+      
+  * GUI 함수 플로터 제작(2018.10 ~ 2019.01)
+    * OpenCV를 이용하여 GUI 함수 플로터를 제작
+      * [GitHub 링크](https://github.com/lackhole/Plotting-for-OpenCV)
+    
+  * 특수상대론을 시각화하는 프로그램 제작(2017.10 ~ 2017.11)
+    * C를 이용하여 빠르게 움직이는 물체의 모습을 구현
+      * [결과영상 YouTube 링크](https://youtu.be/oADxS49q2ZA)
+      
+  * Unity를 이용한 태양계 시뮬레이션 제작(2017.06 ~ 2017. 08)
+    * Unity3D와 C#를 이용하여 간단한 태양계 시뮬레이터를 제작
+      * [GitHub 링크](https://github.com/lackhole/Solar-System)
+ 
 ***
 
 ## 수상
   * 세종대학교 Capstone 경진대회 최우수상(2019)
     * 블록체인을 이용한 암호화폐로 빅데이터를 거래하는 플랫폼을 제작하였습니다.
-
-
-  * 세종대학교 제 5회 SW 경시대회 2등(2018)
-    * C를 이용한 코딩 대회에서 수상하였습니다.
+    
+  * 세종대학교 물리천문하과 학술제 최우수상(2019)
+    * 블랙홀에 대한 CG발표로 수상하였습니다.
+    
+  * 세종대학교 SW 경시대회
+    * 4등(2017, 제 4회)
+    * 2등(2018, 제 5회)
+    * 1등(2019, 제 6회)
     
     
   * 세종대학교 자연과학대학 학술제 인기상(2018)
     * 특수상대론을 시각화하는 프로그램을 발표하여 수상하였습니다.
-
-
-  * 세종대학교 제 4회 SW 경시대회 4등(2017)
-    * C를 이용한 코딩 대회에서 수상하였습니다.
     
 
   * 캔위성 경연대회 우수상 (2017)
