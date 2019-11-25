@@ -8,7 +8,7 @@ page: https://lackhole.github.io
 ***
 
 ## 개발 경험
-  * C/C++, Java, Solidity, Web3.js, Web3j, React.js, Python
+  * C/C++, Java, Solidity, Web3.js, Web3j, Python
  
 ***
 
@@ -39,10 +39,6 @@ page: https://lackhole.github.io
     * 데이터가 모두 수집되면, 기록된 정보를 바탕으로 암호화폐를 판매자와 검증자에게 소량의 수수료를 제하고 지급
     * 데이터 전송은 IPFS, 보상 지급은 블록체인 네트워크를 이용한 탈중앙화 플랫폼을 제작
       * Solidity, Web3.js 개발 [GitHub 링크](https://github.com/lackhole/NMT-Project)
-      
-  * 세종대학교 커뮤니티 앱 Sayjong(2018.06 ~ 2018.09)
-    * React-Native를 이용해 iOS와 Android를 동시에 개발
-      * React-Native 개발 [GitHub 링크](https://github.com/lackhole/sayjong)
       
 ***
     
