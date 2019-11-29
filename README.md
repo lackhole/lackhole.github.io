@@ -53,6 +53,7 @@ page: https://lackhole.github.io
     * 이미지와 영상 처리에 OpenCV를 사용
       * [결과영상 YouTube 링크1](https://youtu.be/u7VBTsMErjc)
       * [결과영상 YouTube 링크2](https://youtu.be/Fwbx136uIPM)
+      * [결과영상 YouTube 링크2](https://youtu.be/OsN4-T6wx4A)
       
   * GUI 함수 플로터 제작(2018.10 ~ 2019.01)
     * OpenCV를 이용하여 GUI 함수 플로터를 제작
@@ -61,10 +62,6 @@ page: https://lackhole.github.io
   * 특수상대론을 시각화하는 프로그램 제작(2017.10 ~ 2017.11)
     * C를 이용하여 빠르게 움직이는 물체의 모습을 구현
       * [결과영상 YouTube 링크](https://youtu.be/oADxS49q2ZA)
-      
-  * Unity를 이용한 태양계 시뮬레이션 제작(2017.06 ~ 2017. 08)
-    * Unity3D와 C#를 이용하여 간단한 태양계 시뮬레이터를 제작
-      * [GitHub 링크](https://github.com/lackhole/Solar-System)
  
 ***
 
