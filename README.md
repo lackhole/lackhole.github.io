@@ -53,7 +53,7 @@ page: https://lackhole.github.io
     * 이미지와 영상 처리에 OpenCV를 사용
       * [결과영상 YouTube 링크1](https://youtu.be/u7VBTsMErjc)
       * [결과영상 YouTube 링크2](https://youtu.be/Fwbx136uIPM)
-      * [결과영상 YouTube 링크2](https://youtu.be/OsN4-T6wx4A)
+      * [결과영상 YouTube 링크3](https://youtu.be/OsN4-T6wx4A)
       
   * GUI 함수 플로터 제작(2018.10 ~ 2019.01)
     * OpenCV를 이용하여 GUI 함수 플로터를 제작
