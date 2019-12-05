@@ -48,7 +48,7 @@ page: https://lackhole.github.io
     * Truffle을 이용하여 블록체인 네트워크에 배포
     * Web3.js 와 Web3j를 이용한 통신 구현
     
-  * 블랙홀의 영향 하에 3D 물체들을 렌더링하는 라이브러리 제작(2019.04 ~ 2019.06)
+  * 블랙홀의 영향 하에 3D 물체들을 렌더링하는 라이브러리 제작(2019.04 ~ 2019.06, 2019.11 ~ 2019.11)
     * C++을 이용하여 자체 Ray Tracing을 구현
     * 이미지와 영상 처리에 OpenCV를 사용
       * [결과영상 YouTube 링크1](https://youtu.be/u7VBTsMErjc)
