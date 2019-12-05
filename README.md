@@ -54,6 +54,7 @@ page: https://lackhole.github.io
       * [결과영상 YouTube 링크1](https://youtu.be/u7VBTsMErjc)
       * [결과영상 YouTube 링크2](https://youtu.be/Fwbx136uIPM)
       * [결과영상 YouTube 링크3](https://youtu.be/OsN4-T6wx4A)
+      * [GitHub 링크](https://github.com/lackhole/Blackhole_6)
       
   * GUI 함수 플로터 제작(2018.10 ~ 2019.01)
     * OpenCV를 이용하여 GUI 함수 플로터를 제작
