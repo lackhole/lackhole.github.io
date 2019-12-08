@@ -38,7 +38,7 @@ page: https://lackhole.github.io
     * 데이터의 정확도와 검증자의 정확도를 산정하고, 이 값들도 해당 거래의 Smart Contract에 기록됨
     * 데이터가 모두 수집되면, 기록된 정보를 바탕으로 암호화폐를 판매자와 검증자에게 소량의 수수료를 제하고 지급
     * 데이터 전송은 IPFS, 보상 지급은 블록체인 네트워크를 이용한 탈중앙화 플랫폼을 제작
-      * Solidity, Web3.js 개발 [GitHub 링크](https://github.com/lackhole/NMT-Project)
+      * Solidity, Web3.js 개발 [프로젝트 링크](https://github.com/lackhole/NMT-Project)
       
 ***
     
@@ -54,11 +54,11 @@ page: https://lackhole.github.io
       * [결과영상 YouTube 링크1](https://youtu.be/u7VBTsMErjc)
       * [결과영상 YouTube 링크2](https://youtu.be/Fwbx136uIPM)
       * [결과영상 YouTube 링크3](https://youtu.be/OsN4-T6wx4A)
-      * [GitHub 링크](https://github.com/lackhole/Blackhole_6)
+      * [프로젝트 링크](https://github.com/lackhole/Blackhole_6)
       
   * GUI 함수 플로터 제작(2018.10 ~ 2019.01)
     * OpenCV를 이용하여 GUI 함수 플로터를 제작
-      * [GitHub 링크](https://github.com/lackhole/Plotting-for-OpenCV)
+      * [프로젝트 링크](https://github.com/lackhole/Plotting-for-OpenCV)
     
   * 특수상대론을 시각화하는 프로그램 제작(2017.10 ~ 2017.11)
     * C를 이용하여 빠르게 움직이는 물체의 모습을 구현
