@@ -22,6 +22,8 @@ page: https://lackhole.github.io
   * 세종대학교 통계물리 연구실(2018.12 ~ 2019.02)
     * Sandpile 모델링 및 연구 데이터 분석
     
+  * Visualcamp 개발팀(2019.12 ~)
+    
 
 ***
   
