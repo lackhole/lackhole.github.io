@@ -2,7 +2,7 @@
 이용규  
 email: cosgenio@gmail.com  
 phone: 010-7335-3293  
-GitHub Page: https://lackhole.github.io
+GitHub Page: https://lackhole.github.io  
 Blog: https://cppmagister.tistory.com/
 
 ***
