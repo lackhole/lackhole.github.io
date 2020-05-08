@@ -13,7 +13,7 @@ GitHub Page: https://lackhole.github.io
 
 
 ## 학력
- * 세종대학교 물리천문학과 & 컴퓨터공학과 휴학(2017.03 ~ ), 3학년
+ * 세종대학교 물리천문학과 & 컴퓨터공학과 (2017.03 ~ ) 휴학, 3학년
 
 ***
 
@@ -55,10 +55,6 @@ GitHub Page: https://lackhole.github.io
       * [결과영상 YouTube 링크2](https://youtu.be/Fwbx136uIPM)
       * [결과영상 YouTube 링크3](https://youtu.be/OsN4-T6wx4A)
       * [프로젝트 링크](https://github.com/lackhole/Blackhole_6)
-      
-  * GUI 함수 플로터 제작(2018.10 ~ 2019.01)
-    * OpenCV를 이용하여 GUI 함수 플로터를 제작
-      * [프로젝트 링크](https://github.com/lackhole/Plotting-for-OpenCV)
     
   * 특수상대론을 시각화하는 프로그램 제작(2017.10 ~ 2017.11)
     * C를 이용하여 빠르게 움직이는 물체의 모습을 구현
