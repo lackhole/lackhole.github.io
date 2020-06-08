@@ -2,9 +2,6 @@
 이용규  
 email: cosgenio@gmail.com  
 GitHub Page: https://lackhole.github.io  
-Blog: https://cppmagister.tistory.com  
-Communities:
-- Stack Overflow: https://stackoverflow.com/users/8176989/%ea%b9%80%ec%84%a0%eb%8b%ac
 
 ***
 ***
