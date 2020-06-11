@@ -8,9 +8,9 @@ GitHub Page: https://lackhole.github.io
 
 ## 개발 경험
   * 주요 기술
-    * C++, Solidity
+    * C++
   * 그 외 기술
-    * C, Android(Java), Web3.js, Web3j, Python
+    * C, Android(Java), Solidity, Web3.js, Web3j, Python
  
 ***
 
