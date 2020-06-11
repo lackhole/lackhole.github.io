@@ -7,7 +7,10 @@ GitHub Page: https://lackhole.github.io
 ***
 
 ## 개발 경험
-  * C/C++, Java, Solidity, Web3.js, Web3j, Python
+  * 주요 기술
+    * C++, Solidity
+  * 그 외 기술
+    * C, Java, Web3.js, Web3j, Python
  
 ***
 
@@ -19,6 +22,9 @@ GitHub Page: https://lackhole.github.io
 
 ## 경력
   * 비주얼캠프 (2019.12 ~)
+    * 시선추적 알고리즘 개선
+    * 모델 추론 프레임워크 균일화
+    * Android Native C++ 일부 개발
   
   * 세종대학교 통계물리 연구실 (2018.12 ~ 2019.02)
     * Sandpile 모델링 및 연구 데이터 분석
