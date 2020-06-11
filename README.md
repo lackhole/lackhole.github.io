@@ -10,7 +10,7 @@ GitHub Page: https://lackhole.github.io
   * 주요 기술
     * C++, Solidity
   * 그 외 기술
-    * C, Java, Web3.js, Web3j, Python
+    * C, Android(Java), Web3.js, Web3j, Python
  
 ***
 
@@ -32,9 +32,6 @@ GitHub Page: https://lackhole.github.io
 ***
   
 ## 팀 프로젝트
-  * 모바일 지갑 어플리케이션 개발(2020.06 ~)
-    * Ethereum 지갑 어플리케이션 및 dApp 개발
-      * Solidity 및 Android 담당
       
   * 블록체인을 이용한 빅데이터 거래 플랫폼 MOAH(2019.03 ~ 2019.06)
     * Ethereum Smart Contract를 이용한 빅 데이터 거래 플랫폼
