@@ -32,10 +32,9 @@ GitHub Page: https://lackhole.github.io
 ***
   
 ## 팀 프로젝트
-  * 음식 추천 앱 뭐먹지(2019.07 ~)
-    * Daum&Kakao 지도 API와 Google Place API 를 이용
-    * 사용자 위치 기반 주변 맛집을 자체 weight 기반으로 카테고리별 추천
-      * Android 개발
+  * 모바일 지갑 어플리케이션 개발(2020.06 ~)
+    * Ethereum 지갑 어플리케이션 및 dApp 개발
+      * Solidity 및 Android 담당
       
   * 블록체인을 이용한 빅데이터 거래 플랫폼 MOAH(2019.03 ~ 2019.06)
     * Ethereum Smart Contract를 이용한 빅 데이터 거래 플랫폼
@@ -82,11 +81,6 @@ GitHub Page: https://lackhole.github.io
     
   * 세종대학교 물리천문학과 학술제 최우수상(2019)
     * 블랙홀에 대한 CG발표로 수상하였습니다.
-  
-    
-    
-  * 세종대학교 자연과학대학 학술제 인기상(2018)
-    * 특수상대론을 시각화하는 프로그램을 발표하여 수상하였습니다.
     
 
   * 캔위성 경연대회 우수상 (2017)
