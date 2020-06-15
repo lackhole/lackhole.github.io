@@ -11,7 +11,7 @@
   * 주요 기술
     * C++
   * 그 외 기술
-    * C, Android(Java), Solidity, Web3.js, Web3j, Python
+    * C, OpenCV, Android(Java), Solidity, Web3.js, Web3j, Python
  
 ***
 
