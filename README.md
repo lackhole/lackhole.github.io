@@ -63,7 +63,7 @@
     * C를 이용하여 빠르게 움직이는 물체의 모습을 구현
       * [결과영상 YouTube 링크](https://youtu.be/oADxS49q2ZA)
 
-  * Unity 3D 를 이용하여 태양계 시뮬레이션 제작
+  * Unity 3D 를 이용하여 태양계 시뮬레이션 제작(2017. 06 ?)
     * [GitHub ](https://github.com/lackhole/Solar-System)
  
 ***
