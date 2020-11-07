@@ -1,32 +1,32 @@
 
 ## 이용규  
 ### email: cosgenio@gmail.com  
-### WebSite: [개발 블로그](http://cppmagister.tistory.com/), [개발 블로그(English)](http://15.164.201.109/), [포트폴리오](https://lackhole.github.io)  
+### WebSite: [Dev Blog(Kor)](http://cppmagister.tistory.com/), [Dev Blog(Eng)](http://15.164.201.109/), [About Me](https://lackhole.github.io)  
 
 ***
 ***
 
-## 개발 경험
-  * 주요 기술
+## Technologies
+  * Major
     * C++
-  * 그 외 기술
+  * Others
     * C, OpenCV, Android(Java), Solidity, Web3.js, Web3j, Python
  
 ***
 
 
-## 학력
- * 세종대학교 물리천문학과 & 컴퓨터공학과 (2017.03 ~ ) 휴학, 3학년
+## Education
+ * Major Physics&Astronomy, Computer Engineering in Sejong Univ (2017 ~ ), 
 
 ***
 
-## 경력
-  * 비주얼캠프 (2019.12 ~)
-    * 시선추적 알고리즘 개선
-    * C++ 개발 담당
+## Experience
+  * Visualcamp (2019.12 ~ )
+    * Enhancing Gaze Tracking Performance
+    * Developing C++ SDK
   
-  * 세종대학교 통계물리 연구실 (2018.12 ~ 2019.02)
-    * Sandpile 모델링 및 연구 데이터 분석
+  * Statistical Physics Laboratory, Sejong Univ (2018.12 ~ 2019.02)
+    * Simulating sandpile model using C++
     
 ***
   
