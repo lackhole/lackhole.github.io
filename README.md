@@ -26,7 +26,7 @@
     * Developing C++ SDK
   
   * Statistical Physics Laboratory, Sejong Univ (2018.12 ~ 2019.02)
-    * Simulating sandpile model using C++
+    * Sandpile model simulation using C++
     
 ***
   
