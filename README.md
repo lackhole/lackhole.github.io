@@ -30,58 +30,60 @@
     
 ***
   
-## 팀 프로젝트
+## Team Projects
       
-  * 블록체인을 이용한 빅데이터 거래 플랫폼 MOAH(2019.03 ~ 2019.06)
-    * Ethereum Smart Contract를 이용한 빅 데이터 거래 플랫폼
-    * 구매자가 원하는 데이터 종류와 수량을 홈페이지에 게시하면, 거래 Smart Contract가 생성됨
-    * 개개인 데이터 판매자가 데이터를 판매하면 다수의 검증자가 이를 교차 검증함
-    * 데이터의 정확도와 검증자의 정확도를 산정하고, 이 값들도 해당 거래의 Smart Contract에 기록됨
-    * 데이터가 모두 수집되면, 기록된 정보를 바탕으로 암호화폐를 판매자와 검증자에게 소량의 수수료를 제하고 지급
-    * 데이터 전송은 IPFS, 보상 지급은 블록체인 네트워크를 이용한 탈중앙화 플랫폼을 제작
-      * Solidity, Web3.js 개발 [프로젝트 링크](https://github.com/lackhole/NMT-Project)
+  * MOAH
+    * A platform that people can trade big-data using Ethereum smart contract
+    * If buyer posts the amounts of data and it's explanation, the smart contract is created
+    * Each data seller can sell their data, and the data is verified by other verifiers.
+    * The accuracy of the seller's data and verifier's score is recorded in the contract
+    * If all data is collected, the amount of token is given to the sellers and the verifiers according to their accuracy.
+    * Data transfer is done with IPFS and the reward is given as a ERC20 token to make decentralized platform.
+      * Developed Solidity and Web3.js [link](https://github.com/lackhole/NMT-Project)
       
 ***
     
-## 개인 프로젝트
-  * Ethereum token NMT 개발(2019.03~2019.06) 
-    * Solidity를 이용한 ERC20 Token 을 제작
-    * Truffle을 이용하여 블록체인 네트워크에 배포
-    * Web3.js 와 Web3j를 이용한 통신 구현
+## My Projects
+  * Ethereum token NMT (2019.03~2019.06) 
+    * Made a ERC20 Token using Solidity.
+    * Distributed using Truffle
+    * Communicating with Web3.js and Web3j
     
-  * 블랙홀의 영향 하에 3D 물체들을 렌더링하는 라이브러리 제작(2019.04 ~ 2019.06, 2019.11 ~ 2019.11)
-    * C++을 이용하여 자체 Ray Tracing을 구현
-    * 이미지와 영상 처리에 OpenCV를 사용
-      * [결과영상 YouTube 링크1](https://youtu.be/u7VBTsMErjc)
-      * [결과영상 YouTube 링크2](https://youtu.be/Fwbx136uIPM)
-      * [결과영상 YouTube 링크3](https://youtu.be/OsN4-T6wx4A)
-      * [프로젝트 링크](https://github.com/lackhole/Blackhole_6)
+  * 3D engine that can simulate a blakhole with ray-tracing (2019.04 ~ 2019.06, 2019.11 ~ 2019.11)
+    * Standalone ray tracing algorithm using C++
+      * [YouTube 1](https://youtu.be/u7VBTsMErjc)
+      * [YouTube 2](https://youtu.be/Fwbx136uIPM)
+      * [YouTube 3](https://youtu.be/OsN4-T6wx4A)
+      * [Source code](https://github.com/lackhole/Blackhole_6)
     
-  * 특수상대론을 시각화하는 프로그램 제작(2017.10 ~ 2017.11)
-    * C를 이용하여 빠르게 움직이는 물체의 모습을 구현
+  * Visualizing special relativity (2017.10 ~ 2017.11)
+    * Visualized (relatively)fast moving object using C
       * [결과영상 YouTube 링크](https://youtu.be/oADxS49q2ZA)
 
-  * Unity 3D 를 이용하여 태양계 시뮬레이션 제작(2017. 06 ?)
-    * [GitHub ](https://github.com/lackhole/Solar-System)
+  * Solar System Simulator(2017. 06 ?)
+    * Made with Unity3D
+      * [GitHub ](https://github.com/lackhole/Solar-System)
  
 ***
 
-## 수상
-  * 세종대학교 Capstone 경진대회 최우수상(2019)
-    * 블록체인을 이용한 암호화폐로 빅데이터를 거래하는 플랫폼을 제작하였습니다.
+## Awards
+  * Capstone competition 2019(Sejong Univ)
+    * Awarded 1st by making MOAH
     
     
-  * 세종대학교 SW 경시대회
-    * 1등 (2019, 제 6회)
-    * 2등 (2018, 제 5회)
-    * 4등 (2017, 제 4회)
-      * C를 이용한 코딩 대회에서 수상하였습니다.
+  * SW Competition (Sejong Univ)
+    * 1st (2019)
+    * 2nd (2018)
+    * 4th (2017)
+      * Won a competition that can only use C
     
     
-  * 세종대학교 물리천문학과 학술제 최우수상(2019)
-    * 블랙홀에 대한 CG발표로 수상하였습니다.
+  * Physics & Astronomy Conference (Sejong Univ)
+    * Awarded 2nd by making CG video of a blackhole
     
 
-  * 캔위성 경연대회 우수상 (2017)
-    * MATLAB과 Python을 이용하여 지상국 구축, 수집한 데이터 분석 및 분석에 대한 수학적 모델링을 맡았습니다.
+  * Can Satellite Competition 2017 (KAIST & KARI)
+    * Awarded 2nd
+    * Made groundstation using MATLAB
+    * Analyze collected data and mathematical modeling with Python
     
