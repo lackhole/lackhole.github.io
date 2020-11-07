@@ -1,7 +1,7 @@
 
 ## 이용규  
 ### email: cosgenio@gmail.com  
-### WebSite: [개발 블로그](http://cppmagister.tistory.com/), [포트폴리오](https://lackhole.github.io)  
+### WebSite: [개발 블로그](http://cppmagister.tistory.com/), [개발 블로그(English)](http://15.164.201.109/), [포트폴리오](https://lackhole.github.io)  
 
 ***
 ***
