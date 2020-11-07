@@ -1,7 +1,10 @@
 
 ## 이용규 Lee Yong Gyu
 ### email: cosgenio@gmail.com  
-### WebSite: [Dev Blog(Kor)](http://cppmagister.tistory.com/), [Dev Blog(Eng)](http://15.164.201.109/), [About Me](https://lackhole.github.io)  
+### WebSite: 
+  * [Dev Blog(Kor)](http://cppmagister.tistory.com/)
+  * [Dev Blog(Eng)](http://15.164.201.109/)
+  * [About Me](https://lackhole.github.io)  
 
 ***
 ***
@@ -45,23 +48,23 @@
     
 ## My Projects
   * Ethereum token NMT (2019.03~2019.06) 
-    * Made a ERC20 Token using Solidity.
-    * Distributed using Truffle
+    * MERC20 Token using Solidity.
+    * Distributed using [Truffle](https://www.trufflesuite.com/ganache)
     * Communicating with Web3.js and Web3j
     
   * 3D engine that can simulate a blakhole with ray-tracing (2019.04 ~ 2019.06, 2019.11 ~ 2019.11)
-    * Standalone ray tracing algorithm using C++
+    * Standalone 3D ray tracing engine using C++
       * [YouTube 1](https://youtu.be/u7VBTsMErjc)
       * [YouTube 2](https://youtu.be/Fwbx136uIPM)
       * [YouTube 3](https://youtu.be/OsN4-T6wx4A)
       * [Source code](https://github.com/lackhole/Blackhole_6)
     
   * Visualizing special relativity (2017.10 ~ 2017.11)
-    * Visualized (relatively)fast moving object using C
+    * Visualizing (relatively)fast moving object using C
       * [결과영상 YouTube 링크](https://youtu.be/oADxS49q2ZA)
 
-  * Solar System Simulator(2017. 06 ?)
-    * Made with Unity3D
+  * Solar System Simulator(2017. 06? ~ ?)
+    * Gravity simulator using Unity3D
       * [GitHub ](https://github.com/lackhole/Solar-System)
  
 ***
