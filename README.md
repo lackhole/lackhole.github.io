@@ -1,6 +1,5 @@
 
 ## 이용규 Lee Yong Gyu
-### email: cosgenio@gmail.com  
 ### WebSite: 
   * [Dev Blog(Kor)](http://cppmagister.tistory.com/)
   * [Dev Blog(Eng)](http://15.164.201.109/)
