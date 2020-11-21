@@ -1,7 +1,7 @@
 
 ## WebSite: 
   * [Dev Blog(Kor)](http://cppmagister.tistory.com/)
-  * [Dev Blog(Eng)](lackhole.com)
+  * [Dev Blog(Eng)](http://lackhole.com)
   * [About Me](https://lackhole.github.io)  
 
 ***
