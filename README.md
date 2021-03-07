@@ -17,7 +17,7 @@
 
 
 ## Education
- * Major Physics&Astronomy, Computer Engineering in Sejong Univ (2017 ~ ), 
+ * Physics&Astronomy, Computer Engineering in Sejong Univ (2017 ~ ), 
 
 ***
 
