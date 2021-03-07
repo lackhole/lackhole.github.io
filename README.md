@@ -3,6 +3,7 @@
   * [Dev Blog(Kor)](http://cppmagister.tistory.com/)
   * [Dev Blog(Eng)](http://lackhole.com)
   * [About Me](https://lackhole.github.io)  
+  * Contact: cosgenio@gmail.com
 
 ***
 ***
