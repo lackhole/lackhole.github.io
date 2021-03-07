@@ -30,6 +30,16 @@
     * Sandpile model simulation using C++
     
 ***
+
+## Awards
+  * Can Satellite Competition 2nd (2017, KAIST & KARI)
+    * Made groundstation using MATLAB
+    * Analyze collected data and mathematical modeling with Python
+    
+  * Physics & Astronomy Conference 2nd (2019, Sejong Univ)
+    * Awarded by making CG video of a blackhole
+    
+***
     
 ## My Projects
   * A 3D engine that can simulate a blakhole with ray-tracing (2019.04 ~ 2019.06, 2019.11 ~ 2019.11)
@@ -41,17 +51,11 @@
     
   * Visualizing special relativity (2017.10 ~ 2017.11)
     * Visualizing (relatively)fast moving object using C
-      * [결과영상 YouTube 링크](https://youtu.be/oADxS49q2ZA)
+      * [YouTube](https://youtu.be/oADxS49q2ZA)
  
 ***
-
-## Awards
-  * Physics & Astronomy Conference (Sejong Univ)
-    * Awarded 2nd by making CG video of a blackhole
     
-
-  * Can Satellite Competition 2017 (KAIST & KARI)
-    * Awarded 2nd
-    * Made groundstation using MATLAB
-    * Analyze collected data and mathematical modeling with Python
-    
+## Team Projects
+  * decentralized data trading platform using blockchain and IPFS (2019.03 ~ 2019.06)
+    * Made an ERC20 token that holds the informations about trades
+      * [Part of the code](https://github.com/lackhole/NMT-Project)
