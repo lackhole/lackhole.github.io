@@ -12,7 +12,6 @@
   * Major
     * C++
       * Intermediate skills using modern C++ including TMP, STL
-      * Library experiences(Tensorflow Lite, OpenCV, Boost, Eigen, libcurl, opengl, libxml2, tinyxml, cppjson, openssl, ...)
   * Others
     * Python
       * Able to make a virtual environment using virtualenv, analyze and visualize data using numpy
