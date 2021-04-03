@@ -11,8 +11,14 @@
 ## Technologies
   * Major
     * C++
+      * Intermediate skills using modern C++ including TMP, STL
+      * Library experiences(Tensorflow Lite, OpenCV, Boost, Eigen, libcurl, opengl, libxml2, tinyxml, cppjson, openssl, ...)
   * Others
-    * C, OpenCV, Android(Java), Solidity, Web3.js, Web3j, Python
+    * Python
+      * Able to make a virtual environment using virtualenv, analyze and visualize data using numpy
+    * C
+      * Understands most of the semantics
+    * OpenCV, Android(Java), Android NDK, Solidity, Web3.js, Web3j
  
 ***
 
@@ -27,20 +33,26 @@
 ## Experience
   * Visualcamp (2019.12 ~ )
     * Enhancing Gaze Tracking Performance
-    * Developing C++ SDK
+    * Developing multiplatform C++ SDK 
   
   * Statistical Physics Laboratory, Sejong Univ (2018.12 ~ 2019.02)
-    * Sandpile model simulation using C++
+    * Sandpile model simulation using C++ & MPI
     
 ***
 
 ## Awards
   * Can Satellite Competition 2nd (2017, KAIST & KARI)
     * Made groundstation using MATLAB
-    * Analyze collected data and mathematical modeling with Python
+    * Analyze data and mathematical modeling using Python
+
+  * Capstone Competition 1st (2019, Sejong Univ)
+    * decentralized data trading platform using blockchain and IPFS
+      * Made an ERC20 token that holds the informations about trades using Solidity
+      * Communicate with deployed token using Web3.js, Web3j
+        * [Part of the code](https://github.com/lackhole/NMT-Project)
     
   * Physics & Astronomy Conference 2nd (2019, Sejong Univ)
-    * Awarded by making CG video of a blackhole
+    * Rendered 3D video of a blackhole using C++
     
 ***
     
@@ -53,12 +65,12 @@
       * [Source code](https://github.com/lackhole/Blackhole_6)
     
   * Visualizing special relativity (2017.10 ~ 2017.11)
-    * Visualizing (relatively)fast moving object using C
+    * Visualizing fast moving object(special relative) using C & MATLAB
       * [YouTube](https://youtu.be/oADxS49q2ZA)
- 
+
 ***
-    
-## Team Projects
-  * decentralized data trading platform using blockchain and IPFS (2019.03 ~ 2019.06)
-    * Made an ERC20 token that holds the informations about trades
-      * [Part of the code](https://github.com/lackhole/NMT-Project)
+
+## Personal Studies
+  * Design Pattern using modern C++
+  * Server programming using boost::asio
+
