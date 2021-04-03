@@ -12,6 +12,7 @@
   * Major
     * C++
       * Intermediate skills using modern C++ including TMP, STL
+      * Library experience(Tensorflow Lite, OpenCV, Eigen)
   * Others
     * Python
       * Able to make a virtual environment using virtualenv, analyze and visualize data using numpy
@@ -24,15 +25,15 @@
 
 ## Education
  * Sejong Univ(2017 ~ )
-   * Physics & Astronomy
-   * Computer Engineering
+   * 3rd grade, leave of absence
+   * Majors Physics & Astronomy, Computer Engineering
 
 ***
 
 ## Experience
   * Visualcamp (2019.12 ~ )
-    * Enhancing Gaze Tracking Performance
-    * Developing multiplatform C++ SDK 
+    * Enhance Gaze Tracking Performance
+    * Develop multiplatform C++ SDK 
   
   * Statistical Physics Laboratory, Sejong Univ (2018.12 ~ 2019.02)
     * Sandpile model simulation using C++ & MPI
@@ -55,7 +56,7 @@
     
 ***
     
-## My Projects
+## Personal Projects
   * A 3D engine that can simulate a blakhole with ray-tracing (2019.04 ~ 2019.06, 2019.11 ~ 2019.11)
     * Standalone 3D ray tracing engine using C++
       * [YouTube 1](https://youtu.be/u7VBTsMErjc)
@@ -69,7 +70,6 @@
 
 ***
 
-## Personal Studies
-  * Design Pattern using modern C++
-  * Server programming using boost::asio
+## Publications
+  * CY Kim, ES Kwon, YG Lee, *Design of CANSAT for a correlation analysis between atmospheric stability and the concentration of fine dust*, The Korean Society for Aeronautical and Space Sciences, 2017
 
