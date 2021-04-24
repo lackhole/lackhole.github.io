@@ -30,8 +30,8 @@
 
 ***
 
-## Experience
-  * Visualcamp (2019.12 ~ )
+## Careers
+  * Visualcamp (2019.12 ~ ), Software Engineer
     * Enhance Gaze Tracking Performance
     * Develop multiplatform C++ SDK 
   
