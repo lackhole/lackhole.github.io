@@ -9,28 +9,6 @@
 ***
 ***
 
-## Technologies
-  * Major
-    * C++
-      * Intermediate skills using modern C++ including TMP, STL
-      * Library experience(Tensorflow Lite, OpenCV, Eigen)
-  * Others
-    * Python
-      * Able to make a virtual environment using virtualenv, analyze and visualize data using numpy
-    * C
-      * Understands most of the semantics
-    * OpenCV, Android(Java), Android NDK, Solidity, Web3.js, Web3j
- 
-***
-
-
-## Education
- * Sejong Univ(2017 ~ )
-   * 3rd grade, leave of absence
-   * Majors Physics & Astronomy, Computer Engineering
-
-***
-
 ## Careers
   * Visualcamp (2019.12 ~ ), Software Engineer
     * Enhance Gaze Tracking Performance
@@ -39,6 +17,23 @@
   * Statistical Physics Laboratory, Sejong Univ (2018.12 ~ 2019.02)
     * Sandpile model simulation using C++ & MPI
     
+***
+
+## Education
+ * Sejong Univ(2017 ~ )
+   * 3rd grade, leave of absence
+   * Majors Physics & Astronomy, Computer Engineering
+
+***
+
+## Technologies
+  * Major
+    * C++
+      * Intermediate skills using modern C++ including TMP, STL
+      * Library experience(Tensorflow Lite, OpenCV, Eigen)
+  * Others
+    * Python, C, OpenCV, Android(Java), Android NDK, Solidity, Web3.js, Web3j
+ 
 ***
 
 ## Awards
