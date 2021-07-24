@@ -1,6 +1,6 @@
 ## WebSites
 [![LinkedIn](img/linkedin.png)](https://www.linkedin.com/in/lackhole/)  
-[![](img/GitHub-Mark-32px.png) ![](img/github_logo.png)](https://github.com/lackhole)  
+[![](img/GitHub-Mark-32px.png)![](img/github_logo.png)](https://github.com/lackhole)  
 [![](img/stackoverflow.png)](https://stackoverflow.com/users/8176989)  
 [![](img/tistory.png)](http://cppmagister.tistory.com/)  
 
