@@ -1,62 +1,57 @@
-
-## WebSite: 
-  * [Dev Blog(Kor)](http://cppmagister.tistory.com/)
-  * [Dev Blog(Eng)](http://lackhole.com)
-  * Community
-    * [Stack Overflow](https://stackoverflow.com/users/8176989)
-  * [About Me](https://lackhole.github.io)  
-  * Contact: cosgenio@gmail.com
-  * [![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flackhole&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+## WebSites
+[![LinkedIn](img/linkedin.png)](https://www.linkedin.com/in/lackhole/)  
+[![](img/GitHub-Mark-32px.png) ![](img/github_logo.png)](https://github.com/lackhole)  
+[![](img/stackoverflow.png)](https://stackoverflow.com/users/8176989)  
+[![](img/tistory.png)](http://cppmagister.tistory.com/)  
 
 ***
-***
 
-## Careers
-  * Visualcamp (2019.12 ~ ), Software Engineer
-    * Enhance Gaze Tracking Performance
-    * Develop multiplatform C++ SDK 
-  
-  * Statistical Physics Laboratory, Sejong Univ (2018.12 ~ 2019.02)
-    * Sandpile model simulation using C++ & MPI
-    
+## Skills
+* Language: Modern C++, Python, C, Java, Solidity
+* Framework: Android(Java), Android NDK, Tensorflow Lite, OpenCV, Emscripten
+* Others: Web3.js, Web3j
+
 ***
 
 ## Education
- * Sejong Univ(2017 ~ )
-   * 3rd grade, leave of absence
-   * Majors Physics & Astronomy, Computer Engineering
+* Sejong University, Seoul Korea ( 2017 ~ Present )
+  * 3rd grade, leave of absence
+  * Majoring Physics & Astronomy, Computer Engineering
 
 ***
 
-## Technologies
-  * Major
-    * C++
-      * Intermediate skills using modern C++ including TMP, STL
-      * Library experience(Tensorflow Lite, OpenCV, Eigen)
-  * Others
-    * Python, C, OpenCV, Android(Java), Android NDK, Solidity, Web3.js, Web3j
+## Experience
+  * Software Engineer at VisualCamp ( 2019.12 ~ Present )
+    * Developing cross-platform gaze-tracking SDK based on C++
+    * Developing on-device ML and inference pipeline using Tensorflow Lite and OpenCV
+      * In charge of Android NDK, WebAssembly and Desktop
+    * Built the entire CI pipeline of the C++ sdk including tests and lint
+      * Pipeline runs on the self-hosted machines using Python and GitHub Actions
+    * Built internal cross-platform C++ library and C++ GUI framework
+  
+  * Student Researcher at Sejong University Statistical Physics Laboratory (2018.12 ~ 2019.02)
+    * Conducted a sandpile model simulation using C++ MPI
  
 ***
 
 ## Awards
   * Can Satellite Competition 2nd (2017, KAIST & KARI)
-    * Made groundstation using MATLAB
-    * Analyze data and mathematical modeling using Python
+    * Made ground station using MATLAB
+    * Analyzed data and mathematical modeling using Python
 
-  * Capstone Competition 1st (2019, Sejong Univ)
+  * Capstone Competition 1st (2019, Sejong University)
     * decentralized data trading platform using blockchain and IPFS
       * Made an ERC20 token that holds the informations about trades using Solidity
       * Communicate with deployed token using Web3.js, Web3j
         * [Part of the code](https://github.com/lackhole/NMT-Project)
     
-  * Physics & Astronomy Conference 2nd (2019, Sejong Univ)
+  * Physics & Astronomy Conference 2nd (2019, Sejong University)
     * Rendered 3D video of a blackhole using C++
     
 ***
     
 ## Personal Projects
-  * A 3D engine that can simulate a blakhole with ray-tracing (2019.04 ~ 2019.06, 2019.11 ~ 2019.11)
-    * Standalone 3D ray tracing engine using C++
+  * A 3D engine that can render a blakhole using ray-tracing (2019.04 ~ 2019.06, 2019.11)
       * [YouTube 1](https://youtu.be/u7VBTsMErjc)
       * [YouTube 2](https://youtu.be/Fwbx136uIPM)
       * [YouTube 3](https://youtu.be/OsN4-T6wx4A)
