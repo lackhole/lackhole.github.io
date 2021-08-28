@@ -14,10 +14,8 @@
 ## Experience
   * VisualCamp, C++ based ML Ensigneer ( 2019.12 ~ Present )
     * Developing cross-platform gaze-tracking SDK based on C++
-    * Developing on-device ML and inference pipeline using Tensorflow Lite and OpenCV
-      * In charge of Android NDK, WebAssembly and Desktop
-    * Building CI/CD pipeline of the gaze-tracking SDK
-      * Pipeline runs on the self-hosted machines using Python and GitHub Actions
+    * Developing on-device ML inference pipeline using Tensorflow Lite and OpenCV
+    * Building CI/CD pipeline of the gaze-tracking SDK using GitHub Actions
     * Built internal cross-platform C++ library and C++ GUI framework
   
   * Sejong University Statistical Physics Laboratory, Student Researcher (2018.12 ~ 2019.02)
