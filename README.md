@@ -11,12 +11,6 @@
 ***
 
 ## Work Experience
-  * Sejong University, SDL, Research Intern(2022.08 ~ 2022.12)
-    * Research on hardware acceleration for ML
-
-  * Seoul National University ARC Lab, Research Intern (2022.01 ~ 2022.03)
-    * Research on hardware acceleration for ML
-
   * VisualCamp, C++ SW Engineer ( 2019.12 ~ )
     * Develop cross-platform gaze-tracking SDK based on C++
       * Targetting Android, iOS, Web(WebAssembly), Windows, OSX, Linux
@@ -24,6 +18,12 @@
       * Optimize inference speed using XNN/NNAPI/GPU
     * Build CI/CD pipeline of the gaze-tracking SDK using GitHub Actions
     * Build in-house cross-platform C++ library and C++ GUI framework
+
+  * Sejong University, SDL, Research Intern(2022.08 ~ 2022.12)
+    * Research on hardware acceleration for ML
+
+  * Seoul National University ARC Lab, Research Intern (2022.01 ~ 2022.03)
+    * Research on hardware acceleration for ML
   
   * Sejong University Statistical Physics Laboratory, Research Intern (2018.12 ~ 2019.02)
     * Conducted a sandpile model simulation using C++ MPI on Linux
