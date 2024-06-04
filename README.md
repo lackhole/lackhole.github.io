@@ -11,7 +11,10 @@
 ***
 
 ## Work Experience
-  * VisualCamp, C++ SW Engineer ( 2019.12 ~ )
+  * Supertone (of HYBE Group), C++ Engineer ( 2024.06 ~ )
+    * Develop in-house framework
+      
+  * VisualCamp, C++ SDK Engineer ( 2019.12 ~ 2024.05)
     * Develop cross-platform gaze-tracking SDK based on C++
       * Targetting Android, iOS, Web(WebAssembly), Windows, OSX, Linux
     * Develop on-device ML inference pipeline using OneTBB, Tensorflow Lite and OpenCV
