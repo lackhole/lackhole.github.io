@@ -29,7 +29,7 @@
 
 ## Education
 * Sejong University, Seoul Korea ( 2017.03 ~ 2024.02 )
-  * Majoring in both Physics and Astronomy, Computer Science and Engineering
+  * Majored both Physics and Astronomy, Computer Science and Engineering
     
 ***
 
